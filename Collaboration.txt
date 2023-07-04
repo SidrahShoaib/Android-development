@@ -1,0 +1,19 @@
+git status
+git pull origin
+git checkout -b test
+make chages
+git status
+git add .
+git commit -m "changes"
+
+git push origin test
+
+
+pull request on github
+reviewer will review the code and confirm confirm pull request. confirm merge.
+
+
+if want to make more chanes
+git checkout master
+git pull origin
+repeat
