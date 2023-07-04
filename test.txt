@@ -20,3 +20,13 @@ git checkout branchname
 git checkout master
 git branch -D branchname (to delete)
 git checkout -b branchname (to create and checkout branch) 
+
+github signin
+make repository
+copy link
+git remote add origin(or any alias for link)
+git push origin master
+
+make changes to project.
+update local repo
+update github repo
