@@ -1,2 +1,20 @@
 hello world
 how r u
+
+git add file name
+git add .
+git commit -m "message"
+git status
+
+git rm filename
+
+git log
+gi log --oneline
+git checkout commit_number
+git revert commit_number
+git reset commit_number
+
+git branch test
+git branch -a (gives all branches)
+git checkout branchname
+git checkout master
