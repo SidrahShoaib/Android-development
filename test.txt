@@ -18,3 +18,5 @@ git branch test
 git branch -a (gives all branches)
 git checkout branchname
 git checkout master
+git branch -D branchname (to delete)
+git checkout -b branchname (to create and checkout branch) 
